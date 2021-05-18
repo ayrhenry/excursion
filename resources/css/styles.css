@@ -15,3 +15,12 @@ a {
 header {
   text-align: center;
 }
+h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+footer p {
+  text-align: right !important;
+  color: gray;
+}
